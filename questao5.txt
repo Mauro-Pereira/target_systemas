@@ -1,0 +1,19 @@
+Analisando a questão, pode-se chegar em duas conclusões:
+
+Conclusão 1:
+
+O carro que saiu de Ribeirão Preto está mais distante dessa cidade do que o caminhão. Na minha visão,
+como o carro estava em maior velocidade, esse percorreu uma distância muito maior do que o caminhão que
+partiu de Barretos. Mesmo considerando as paradas de 5 minutos nos pedágios, acredito que a distância total
+percorrida pelo carro ainda seria maior. Aqui, como o carro percorreu uma distância maior, logo ele estaria mais distante
+de Ribeirão Preto, fazendo com que o caminhão esteja mais próximo ao seu destino.
+
+Conclusão 2:
+
+Tanto o carro, quando o caminhão estão a mesma distância de Ribeirão Preto. É mais lógico pensar assim,
+visto que se os dois se encontraram em um ponto, logo esse ponto tem a mesma distância para os dois veículos.
+
+Conclusão, para mim, qualquer uma dessas conclusões acima seria a melhor forma de pensar esse problema.
+No caso, prefiro levar em consideração a conclusão dois (2) por ser uma conclusão mais simples quando se pensa
+no problema na primeira vista. No entanto, se considerarmos questões físicas e matemáticas, talvez a conclusão 1 pode 
+esteja correta, mas aqui eu não tenho o conhecimento necessário para tal.
