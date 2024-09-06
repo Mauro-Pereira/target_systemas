@@ -8,3 +8,5 @@ while(k < indice){
 }
 
 console.log(soma);
+
+// A resta correta é 77
